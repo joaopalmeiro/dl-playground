@@ -1,0 +1,7 @@
+name: blip-dev
+channels:
+  - conda-forge
+dependencies:
+  - python=3.7.12
+  - isort=5.10.1
+  - black=22.10.0
